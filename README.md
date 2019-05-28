@@ -1,6 +1,9 @@
 # ArduinoLcdPrint
 this project with Arduino C prints a my name in LCD 
+and this images sxplain how it works
 <div>
-<img src ="simple%20coding%20with%20arduino.png" alt="image of circuit">
+<img src ="LCD.png" alt="image of lcd">
+<img src ="Working.png" alt="image of lcd when it's working">
 </div>
+
 
